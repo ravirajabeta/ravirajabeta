@@ -27,3 +27,5 @@ I'm a modern endpoint management engineer with extensive experience in Intune, A
 **Autopilot:** Delivers zero-touch deployment reducing provisioning time by 80%  
 **Compliance:** Automates security baselines achieving 95%+ compliance rates  
 **Application Management:** Streamlines enterprise app deployment with centralized updates  
+
+## Certifications
