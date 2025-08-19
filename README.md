@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I design secure, automated Microsoft cloud environments that reduce ops overhead and improve compliance.
 
 ## About
-I'm a modern endpoint management engineer with extensive experience in Intune, Azure, and SCCM/MECM. I specialize in zero-touch deployment solutions, security compliance automation, and Infrastructure as Code implementations that drive operational excellence and security posture improvements across enterprise environments.
+I'm a modern endpoint management engineer with extensive experience in Intune, Azure, and SCCM/MECM. I specialize in zero-touch deployment solutions, security compliance automation, and Application deployments that drive operational excellence and security posture improvements across enterprise environments.
 
 ## Skills
 
